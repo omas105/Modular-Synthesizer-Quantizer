@@ -88,7 +88,7 @@ Mode selector - Encoder to change scales, transpose mode and root note.
     <td>Back</td>
   </tr>
   <tr>    
-    <td><img src="PCB_front.jpg" width="400"></td>
-    <td><img src="PCB_back.jpg" width="400"></td>
+    <td><img src="Images/PCB_front.jpg" width="400"></td>
+    <td><img src="Images/PCB_back.jpg" width="400"></td>
   </tr>
  </table>
