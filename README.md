@@ -3,6 +3,15 @@ Modular Synthesizer Quantizer with Arduino nano and MCP4921 DAC
 
 Inspired by [Hagiwo](https://note.com/solder_state/n/nde97a0516f03) and [luislutz](https://github.com/luislutz/Arduino_Quantizer) design
 
+
+<table>
+  <tr>    
+    <td><img src="Images/Front.jpg" height="400"></td>
+    <td><img src="Images/Front_on.jpg" height="400"></td>
+    <td><img src="Images/back.jpg" height="400"></td>
+  </tr>
+ </table>
+
 ## Inputs
 Pitch CV [0-7V] - Voltage to be quantized.
 
