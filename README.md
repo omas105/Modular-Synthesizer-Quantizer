@@ -1,7 +1,7 @@
 # Modular-Synthesizer-Quantizer
 Modular Synthesizer Quantizer with Arduino nano and MCP4921 DAC
 
-Inspired by [Hagiwo](https://note.com/solder_state/n/nde97a0516f03) and [luislutz](https://github.com/luislutz/Arduino_Quantizer) design
+Inspired by [Hagiwo](https://note.com/solder_state/n/nde97a0516f03) and [luislutz's](https://github.com/luislutz/Arduino_Quantizer) design
 
 
 <table>
