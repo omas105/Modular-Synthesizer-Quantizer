@@ -101,3 +101,8 @@ Mode selector - Encoder to change scales, transpose mode and root note.
     <td><img src="Images/PCB_back.jpg" width="400"></td>
   </tr>
  </table>
+
+
+## License
+
+[GNU General Public License (GPLv3)](LICENSE)
